@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **ashutosh.anuj1@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/gpLVY](https://shorturl.at/gpLVY)
-
 - ⚡ Fun fact **I am a musician as well 🎸**
 
 <h3 align="left">Connect with me:</h3>
