@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **VoltMx development**
 
-- 👨‍💻 All of my projects are available at [https://ashutoshsri.netlify.app/](https://ashutoshsri.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ashutoshsri.netlify.app/)
 
 - 💬 Ask me about **Web Development, DSA, Android Development**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashutosh-srivastava-990707230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh-srivastava-990707230" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ash17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ash17" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/s1mp69xd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ash17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/xerxesog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xerxesog" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/xerxes0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xerxes0g" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ashutosh.anuj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ashutosh.anuj1" height="30" width="40" /></a>
