@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web Development, DSA, Android Development**
 
-- 📫 How to reach me **ashutosh.anuj1@gmail.com**
+- 📫 How to reach me **ashutoshhwork@gmail.com**
 
 - ⚡ Fun fact **I am a musician as well 🎸**
 
