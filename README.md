@@ -7,17 +7,18 @@
 
 - 🔭 I’m currently working on VOLTMX based application **E-Commnercial APP**
 
-- 🌱 I’m currently learning **React**
-
-- 🤝 I’m looking for help with **VoltMx development**
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ashutoshsri.netlify.app/)
 
-- 💬 Ask me about **Web Development, DSA, Android Development**
+- 💬 Ask me about **Web Development, DSA, CyberSecurity**
 
 - 📫 How to reach me **ashutoshhwork@gmail.com**
 
 - ⚡ Fun fact **I am a musician as well 🎸**
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4347935" style='border:none;'></iframe>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
