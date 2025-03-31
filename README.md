@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on VOLTMX based application **E-Commnercial APP**
+- 🔭 I’m currently working as a CDIR Intern
 
 - 🌱 I’m currently learning **CyberSecurity**
 
